@@ -9,10 +9,11 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-from pathlib import Path
+
 import os
 import django_heroku
 from pathlib import Path
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
@@ -34,7 +35,7 @@ SECRET_KEY = '+l(mlm!k54af_3!ga$=m1u1=36m8(%ws3-b0lz06nfrl5ukty2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['medisense-main.herokuapp.com']
+ALLOWED_HOSTS = ['medisense.herokuapp.com']
 
 
 # Application definition
@@ -102,10 +103,10 @@ WSGI_APPLICATION = 'medisense.wsgi.application'
 DATABASES = {
       'default': {
       'ENGINE': 'django.db.backends.postgresql_psycopg2',
-       'NAME': 'd18vv3c78vqqdd',
-       'USER': 'zzacyvzqtudiun',
-       'PASSWORD':'e46610d2b1e1df336ac28787304181bf7043060f1be118c660178e0c000c7243',
-       'HOST': 'ec2-52-5-167-89.compute-1.amazonaws.com',
+       'NAME': 'd6jpk9qtms1h7p',
+       'USER': 'shdbefdaeoofxd',
+       'PASSWORD':'fedeceaea3349b851d61fdf42659f234b974579b6185eaba6e63950620724ea7',
+       'HOST': 'ec2-52-1-92-133.compute-1.amazonaws.com',
        'PORT':'5432'
       }
     }
