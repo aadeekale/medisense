@@ -2,5 +2,5 @@
 <h2> This project is intended for educational purpose only </h2>
 <h2> Tech Used : Machine Learning, Django. </h2>
 <h2> Website is not hosted here to avoid copyrights infringement issues, please refer to the source code <a href="https://github.com/aadeekale/medisense">here</a></h2>
-<h2> ngrok on demand <h2>
+<h2> heroku link <a href="https://medisense-d5ca824d659b.herokuapp.com/">here</a><h2>
 <h3> © Aditya Rajendra Kale </h3>
