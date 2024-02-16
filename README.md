@@ -1,6 +1,7 @@
-<h2>This is an online appointment portal integrated with machine learning where patients can diagnose disease as well as can get medicines recommended by healthcare professionals.</h2>
-<h2> This project is intended for educational purpose only </h2>
-<h2> Tech Used : Machine Learning, Django. </h2>
-<h2> Website is not hosted here to avoid copyrights infringement issues, please refer to the source code <a href="https://github.com/aadeekale/medisense">here</a></h2>
-<h2> heroku link <a href="https://medisense-d5ca824d659b.herokuapp.com/">here</a><h2>
+<h2> This portal has all my projects related to Data Science and ML. </h2>
+<h2> All the projects are intended for educational purpose only. </h2>
+<h2> Used Heroku stack for project deployment and not hosted here to avoid copyright clash./n </h2>
+<h1> <a href="https://adityakale.in/"> PROJECTS </a></h1>
+
+<h2> heroku link <a href="https://medisense-d5ca824d659b.herokuapp.com/">Medisense</a> source code <a https://github.com/aadeekale/medisense </a> <h2>
 <h3> © Aditya Rajendra Kale </h3>
